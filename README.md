@@ -6,6 +6,7 @@ Rock paper scissors is a hand game originating in China, usually played between 
 ![image](https://user-images.githubusercontent.com/122825335/214057136-085ee072-a156-4af8-bcf9-be84ba9f64bf.png)
 
 ***Тherefore, these are the inputs and outputs of the project, which are also indicated in the image below:***
+
 ![image](https://user-images.githubusercontent.com/122825335/214059805-be8a92d0-c860-4d97-8ed2-33839730fcf4.png)
 
 ***Solution:***
