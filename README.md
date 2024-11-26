@@ -24,6 +24,8 @@ A simultaneous, zero-sum game, it has three possible outcomes: a draw, a win or 
 
 ![image](https://user-images.githubusercontent.com/122825335/214062479-67f0cb6b-2040-4004-a3ef-08ff51935986.png)
 
+BY: DzhansuD
+
 
 **Link to the Source Code:**
 [RockPaperScissors.java](https://github.com/DzhansuDikmemehmed/RockPaperScissorsByDzhansuD/blob/a8dc4a6611d2b4c29a80bc37c8ddf32986367ba9/RockPaperScissors/RockPaperAndScissors.java)
